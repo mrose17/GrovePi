@@ -8,7 +8,7 @@
         "buffertools": "2.1.*",
         "i2c-bus": "0.11.*",
         "npmlog": "1.2.*",
-        "sleep": "2.0.*"
+        "sleep": "3.0.*"
     },
     "main": "index.js",
     "scripts": {
